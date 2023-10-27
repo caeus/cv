@@ -60,3 +60,10 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Developed comprehensive system for real-time reports, utilization heatmaps, and batch permission management of EV charging points
 * Acquired expertise in real-time data processing (streaming), distributed systems, and event-driven microservice architectures
 * Skill enhancement attributed to mentorship from talented engineers at NewMotion
+### Senior Software Engineer
+#### NewMotion
+##### Sept 2017 - May 2018 (9 months)
+* Worked at Lunatech, a renowned IT consultancy specializing in staff augmentation
+* Worked on impactful projects for client companies such as Audi and ING Bank
+* At Audi worked on the development of a real-time IoT event processing system for smart cars by designing infrastructure, orchestrating event aggregation, and real-time data redirection. The tech stack revolved around Scala (Akka)
+* At ING Bank contributed to the mogration of the identity and authorization management system from Java to Kotlin
