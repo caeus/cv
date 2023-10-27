@@ -61,7 +61,7 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Acquired expertise in real-time data processing (streaming), distributed systems, and event-driven microservice architectures
 * Skill enhancement attributed to mentorship from talented engineers at NewMotion
 ### Senior Software Engineer
-#### NewMotion
+#### Lunatech
 ##### Sep 2017 - May 2018 (9 months)
 * Worked at Lunatech, a renowned IT consultancy specializing in staff augmentation
 * Worked on impactful projects for client companies such as Audi and ING Bank
@@ -69,7 +69,7 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * At ING Bank contributed to the mogration of the identity and authorization management system from Java to Kotlin
 ### Senior Software Engineer
 #### Undertrail/GDX
-##### Sep 2015 - Aug 2017 (9 months)
+##### Sep 2015 - Aug 2017 (2 years)
 * Started as a Fullstack Engineer at Undertrail
 * Company focused on centralized transportation ticket sales
 * Witnessed significant software challenges. Challenges existing due to flawed domain modeling and resulting un brittleness and unreliability
@@ -78,8 +78,18 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Introduced new architecture and technology stack
 * Guided the transformation of the software into a resilient, reliable, and flexible solution, making out search engine efficiently handle hundreds of searches per minute
 * Notable contributions:
- * Implemented Real-time pricing rules engine
- * Implemented Adaptable payment processing system
- * Designed tutomated ticket purchasing engine
- * Fostered a sense of pride and ownership within the tech team
- * Contributed to a cohesive work environment
+  * Implemented Real-time pricing rules engine
+  * Implemented Adaptable payment processing system
+  * Designed tutomated ticket purchasing engine
+  * Fostered a sense of pride and ownership within the tech team
+  * Contributed to a cohesive work environment
+
+### CTO
+#### Kiido SAS
+##### Jan 2014 - Aug 2015 (1 year 8 months)
+### Full Stack Developer
+#### Innerconsulting
+##### Mar 2012 - Dec 2013 (1 year 10 months)
+### Full Stack Developer
+#### Heinsohn Software House
+##### Feb 2011 - May 2011 (4 months)
