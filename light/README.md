@@ -17,10 +17,17 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 ### Software Architect
 #### Foodology Inc
 ##### Sep 2021 - Present
-* Transformed brittle and unmaintainable legacy software into a scalable and maintainable distributed architecture, resulting in a faster and more reliable product in under a year
-* Ensured business continuity during the transition and provided guidance to the development team to create sustainable and high-quality solutions
-* Utilized domain-driven design principles and functional programming techniques to align software solutions with business goals
-* Led multiple projects, including flexible orchestration engine, CI/CD implementation, migration to k8s, and automated menu management system, among others
+
+* Took the role of Software Architect at Foodology, a company focusing on managing and operating cloud kitchens
+* Aimed to revolutionize the software infrastructure for rapid growth
+* Encountered challenges in the existing technology stack: unreliability, sluggishness, scalability limitations
+* Spearheaded a comprehensive transformation in one year
+* Achieved a robust, scalable, and flexible software solution
+* Realized a tenfold increase in order intake speed...
+* Navigated through a global economic crisis impacting startups
+* Transitioned to a distributed system using Kubernetes, Docker containers, JVM software in Kotlin, and a monorepo
+* Introduced an orchestrator to simplify processes and enhance system predictability and reliability...
+* Enabled the development team to focus solely on feature implementation
 ### Senior Software Engineer
 #### Twilio
 ##### Mar 2020 - Aug 2021 (1 year 6 months)
