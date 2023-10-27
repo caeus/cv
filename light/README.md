@@ -23,16 +23,32 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Encountered challenges in the existing technology stack: unreliability, sluggishness, scalability limitations
 * Spearheaded a comprehensive transformation in one year
 * Achieved a robust, scalable, and flexible software solution
-* Realized a tenfold increase in order intake speed...
+* Realized a tenfold increase in order intake speed
 * Navigated through a global economic crisis impacting startups
 * Transitioned to a distributed system using Kubernetes, Docker containers, JVM software in Kotlin, and a monorepo
-* Introduced an orchestrator to simplify processes and enhance system predictability and reliability...
+* Introduced an orchestrator to simplify processes and enhance system predictability and reliability
 * Enabled the development team to focus solely on feature implementation
 ### Senior Software Engineer
 #### Twilio
 ##### Mar 2020 - Aug 2021 (1 year 6 months)
-- Automated Infrastructure and Networking tasks, improving efficiency and reducing human error.
-- Designed a flexible solution using a simple protocol, enabling integration with a wide range of hardware.
-Implemented distributed, safe infrastructure operations with transactional rollbacks in case of failure, resulting in improved reliability and uptime.
-- Collaborated with team members to implement the solution while adhering to strict requirements and timelines.
-- Assisted in the maintenance and troubleshooting of the automated system, ensuring proper functionality and uptime.
+* Worked as a Senior Software Engineer at Twilio
+* Took responsibility for a core system within the network traffic logistics team
+* Designed and implemented critical components for scalability and resilience
+* Used Scala and associated technologies like ZIO, Cats, Akka, and sbt
+* Transitioned to projects focused on automating the management of virtual infrastructure resources like VPCs, VPNs, IPs, and DNS records
+* Developed distributed software for orchestrating tasks and configuring hardware resources
+* Created a powerful yet simple protocol for distributed, atomic execution of operations
+* Mentored junior and senior colleagues
+* Was involved in assessing potential candidates for their technical proficiency
+### Software Architect
+#### Kiwibot
+##### Jun 2019 - Feb 2020 (9 months)
+* Worked as Software Architect at Kiwibot, a pioneering company specializing in autonomous food delivery.
+* Found technical stack challenges arising from the evolving and adaptive business model previously leveraged by the company to achieve growth and investment,
+* The technical stack was characterized by unpredictability, suboptimal practices, and anti-patterns.
+* Collaborated with the Chief Technology Officer (CTO) and cross-functional teams to understand Kiwibot's domain and operational activities.
+* Addressed substantial technical debt without compromising operational continuity.
+* A polyglot approach with multiple programming languages (Scala and Java) was used. Multiple databases were used, mainly MongoDB
+* Created CI/CD pipelines for deploying services, initially using Heroku and Docker and later migrating to cloud computing providers, primarily AWS.
+* Simplified the technical infrastructure and improved scalability while breaking free from legacy systems.
+* Contributed to enhancing task management in the food delivery process to increase software team productivity by creating simple orchetrator.
