@@ -52,3 +52,10 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Created CI/CD pipelines for deploying services, initially using Heroku and Docker and later migrating to cloud computing providers, primarily AWS.
 * Simplified the technical infrastructure and improved scalability while breaking free from legacy systems.
 * Contributed to enhancing task management in the food delivery process to increase software team productivity by creating simple orchetrator.
+
+
+* Held position of Senior Software Engineer at NewMotion, a company that specializes in electric vehicle charging point management
+* Worked on a project for customizing management products for businesses with multiple charging points (e.g., Ikea)
+* Developed comprehensive system for real-time reports, utilization heatmaps, and batch permission management of EV charging points
+* Acquired expertise in real-time data processing (streaming), distributed systems, and event-driven microservice architectures
+* Skill enhancement attributed to mentorship from talented engineers at NewMotion
