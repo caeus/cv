@@ -62,12 +62,14 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Skill enhancement attributed to mentorship from talented engineers at NewMotion
 ### Senior Software Engineer
 #### NewMotion
-##### Sept 2017 - May 2018 (9 months)
+##### Sep 2017 - May 2018 (9 months)
 * Worked at Lunatech, a renowned IT consultancy specializing in staff augmentation
 * Worked on impactful projects for client companies such as Audi and ING Bank
 * At Audi worked on the development of a real-time IoT event processing system for smart cars by designing infrastructure, orchestrating event aggregation, and real-time data redirection. The tech stack revolved around Scala (Akka)
 * At ING Bank contributed to the mogration of the identity and authorization management system from Java to Kotlin
-
+### Senior Software Engineer
+#### Undertrail/GDX
+##### Sep 2015 - Aug 2017 (9 months)
 * Started as a Fullstack Engineer at Undertrail
 * Company focused on centralized transportation ticket sales
 * Witnessed significant software challenges. Challenges existing due to flawed domain modeling and resulting un brittleness and unreliability
