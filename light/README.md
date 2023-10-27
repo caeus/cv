@@ -67,3 +67,17 @@ My expertise extends to various key tech paradigms and tools, encompassing the J
 * Worked on impactful projects for client companies such as Audi and ING Bank
 * At Audi worked on the development of a real-time IoT event processing system for smart cars by designing infrastructure, orchestrating event aggregation, and real-time data redirection. The tech stack revolved around Scala (Akka)
 * At ING Bank contributed to the mogration of the identity and authorization management system from Java to Kotlin
+
+* Started as a Fullstack Engineer at Undertrail
+* Company focused on centralized transportation ticket sales
+* Witnessed significant software challenges. Challenges existing due to flawed domain modeling and resulting un brittleness and unreliability
+* Promoted to Software Architect
+* Led thorough reevaluation of complex domain
+* Introduced new architecture and technology stack
+* Guided the transformation of the software into a resilient, reliable, and flexible solution, making out search engine efficiently handle hundreds of searches per minute
+* Notable contributions:
+ * Implemented Real-time pricing rules engine
+ * Implemented Adaptable payment processing system
+ * Designed tutomated ticket purchasing engine
+ * Fostered a sense of pride and ownership within the tech team
+ * Contributed to a cohesive work environment
