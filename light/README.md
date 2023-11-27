@@ -96,7 +96,7 @@ ___
 ### Full Stack Developer
 #### Innerconsulting
 ##### Mar 2012 - Dec 2013 (1 year 10 months)
-___
+---
 ### Full Stack Developer
 #### Heinsohn Software House
 ##### Feb 2011 - May 2011 (4 months)
