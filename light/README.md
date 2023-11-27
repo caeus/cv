@@ -28,6 +28,7 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
 * Transitioned to a distributed system using Kubernetes, Docker containers, JVM software in Kotlin, and a monorepo
 * Introduced an orchestrator to simplify processes and enhance system predictability and reliability
 * Enabled the development team to focus solely on feature implementation
+______
 ### Senior Software Engineer
 #### Twilio
 ##### Mar 2020 - Aug 2021 (1 year 6 months)
@@ -40,6 +41,7 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
 * Created a powerful yet simple protocol for distributed, atomic execution of operations
 * Mentored junior and senior colleagues
 * Was involved in assessing potential candidates for their technical proficiency
+____
 ### Software Architect
 #### Kiwibot
 ##### Jun 2019 - Feb 2020 (9 months)
@@ -52,6 +54,7 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
 * Created CI/CD pipelines for deploying services, initially using Heroku and Docker and later migrating to cloud computing providers, primarily AWS.
 * Simplified the technical infrastructure and improved scalability while breaking free from legacy systems.
 * Contributed to enhancing task management in the food delivery process to increase software team productivity by creating simple orchetrator.
+___
 ### Senior Software Engineer
 #### NewMotion
 ##### Jun 2018 - Mar 2019 (10 months)
@@ -60,6 +63,7 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
 * Developed comprehensive system for real-time reports, utilization heatmaps, and batch permission management of EV charging points
 * Acquired expertise in real-time data processing (streaming), distributed systems, and event-driven microservice architectures
 * Skill enhancement attributed to mentorship from talented engineers at NewMotion
+___
 ### Senior Software Engineer
 #### Lunatech
 ##### Sep 2017 - May 2018 (9 months)
@@ -67,6 +71,7 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
 * Worked on impactful projects for client companies such as Audi and ING Bank
 * At Audi worked on the development of a real-time IoT event processing system for smart cars by designing infrastructure, orchestrating event aggregation, and real-time data redirection. The tech stack revolved around Scala (Akka)
 * At ING Bank contributed to the mogration of the identity and authorization management system from Java to Kotlin
+___
 ### Senior Software Engineer
 #### Undertrail/GDX
 ##### Sep 2015 - Aug 2017 (2 years)
@@ -83,13 +88,15 @@ I excel in mentoring cross-functional teams, ensuring alignment, and navigating 
   * Designed tutomated ticket purchasing engine
   * Fostered a sense of pride and ownership within the tech team
   * Contributed to a cohesive work environment
-
+___
 ### CTO
 #### Kiido SAS
 ##### Jan 2014 - Aug 2015 (1 year 8 months)
+___
 ### Full Stack Developer
 #### Innerconsulting
 ##### Mar 2012 - Dec 2013 (1 year 10 months)
+___
 ### Full Stack Developer
 #### Heinsohn Software House
 ##### Feb 2011 - May 2011 (4 months)
