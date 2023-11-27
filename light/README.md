@@ -8,9 +8,9 @@
 🐙 [github.com/caeus](https://github.com/caeus)
 
 ## Summary
-Seasoned software engineer and architect with over a decade of experience. Driven by a passion for problem solving and armed with a distinctive approach, I skillfully navigate tight deadlines while still delivering future-proof and highly reliable solutions. I proactively lead teams towards excellence, and my work consistently wields a powerful and positive influence on various critical aspects, including productivity, costs, scalability, and flexibility.
+Seasoned software engineer and architect with over a decade of experience building dependable solutions. With a systematic, thorough and principled mindset to problem-solving I meticulously construct domain models from which future-proof and highly reliable solutions naturally emerge. I take on a leadership role in guiding and mentoring teams for the development of top-tier software and for their future as engineers. My work consistently elevates teams productivity and enhances critical aspects of the software development cycle, including scalability, maintainability and flexibility.
 
-My expertise extends to various key tech paradigms and tools, encompassing the Java Virtual Machine (JVM, Scala, Kotlin, Java), Functional Programming, Cloud Computing and Infrastructure, Microservices and Distributed Systems, and Agile Methodologies.
+I excel in mentoring cross-functional teams, ensuring alignment, and navigating agile methodologies. I possess a strong foundation in software architectural patterns, particularly for event-driven microservices in distributed systems. I'm highly knowledgeable and proficient in functional programming paradigms, and I adhere to a strict clean code philosophy. I have a deep mastery of JVM languages such as Scala, Kotlin, and Java, I'm proficient in JavaScript (and TypeScript) and more (including Python and Golang). My experience covers a broad range of databases, including relational (Postgres, MySQL) and NoSQL (MongoDB, DynamoDB, Redis). I'm well-versed in Git for version control and have extensive experience with leading cloud providers, notably AWS and GCP. I've gained hands-on expertise with Infrastructure as Code (IaC) tools like Docker and Kubernetes.
 
 ## Experience
 
